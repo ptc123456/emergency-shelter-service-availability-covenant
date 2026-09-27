@@ -1,0 +1,14 @@
+{
+  "operationId": "ESAAC-DEPLOY-20260927-02",
+  "sourceHash": "b666b1e700acd2175dfd973d13fbd78aa13993b08112f75a28d72a19f9d8a29f",
+  "network": "studioDevnet",
+  "chainId": 61997,
+  "rpc": "https://studio-dev.genlayer.com/api",
+  "actor": "0xf5C66e5155a62E27047aD4ccE729593D6B9c03Fc",
+  "args": [
+    "idalia",
+    "OrangeCounty"
+  ],
+  "broadcastCount": 1,
+  "txHash": "0x41d4364ffcc36a1a57926ab7316cc03c90c91048047d4dc4e59eaa4a6631776b"
+}

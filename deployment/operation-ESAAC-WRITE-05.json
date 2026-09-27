@@ -1,0 +1,34 @@
+{
+  "operationId": "ESAAC-WRITE-05",
+  "network": "studioDevnet",
+  "chainId": 61997,
+  "actor": "0xf5C66e5155a62E27047aD4ccE729593D6B9c03Fc",
+  "address": "0xCfDe4d73402C35AD3c3b9A66293d1C3069f08d7B",
+  "functionName": "register_facility",
+  "args": [
+    "Barnett Park",
+    "GENERAL_POPULATION"
+  ],
+  "broadcastCount": 1,
+  "txHash": "0x7d1285b9803e4d21963e0c6d8a45f352897607fde675c8b0b6fdc1b539a7345f",
+  "feeValue": "25000000000002588",
+  "result": "MAJORITY_AGREE",
+  "execution": "FINISHED_WITH_RETURN",
+  "lifecycle": {
+    "state": "finalized",
+    "outcome": "accepted"
+  },
+  "readback": {
+    "access_class": "GENERAL_POPULATION",
+    "authority": "OrangeCounty",
+    "capacity": "NOT_ASSERTED",
+    "current_availability": "NOT_ASSERTED",
+    "event_id": "idalia",
+    "evidence_state": "UNRESOLVED",
+    "facility": "Barnett Park",
+    "lifecycle": "DRAFT",
+    "published_state": "",
+    "section_time": "",
+    "superseded_by": ""
+  }
+}

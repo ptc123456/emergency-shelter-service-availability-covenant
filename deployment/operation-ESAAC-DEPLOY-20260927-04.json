@@ -1,0 +1,18 @@
+{
+  "operationId": "ESAAC-DEPLOY-20260927-04",
+  "sourceHash": "1574b07696d0ba0c8c4974689db25b44b34373f235098993a173ab6fb5ecfef7",
+  "network": "studioDevnet",
+  "chainId": 61997,
+  "rpc": "https://studio-dev.genlayer.com/api",
+  "actor": "0xf5C66e5155a62E27047aD4ccE729593D6B9c03Fc",
+  "args": [
+    "idalia",
+    "OrangeCounty"
+  ],
+  "broadcastCount": 1,
+  "txHash": "0xc5aa27e994744b8161c7d6ea8c1c1682bd2550a6e9e6288c3848c2eb4dcf57e0",
+  "status": "FINALIZED",
+  "result": "MAJORITY_AGREE",
+  "execution": "FINISHED_WITH_RETURN",
+  "contractAddress": "0x5291a8bB374Ef3819A30d7D09dC5690C0077fc54"
+}

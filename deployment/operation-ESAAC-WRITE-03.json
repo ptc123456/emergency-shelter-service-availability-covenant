@@ -1,0 +1,36 @@
+{
+  "operationId": "ESAAC-WRITE-03",
+  "network": "studioDevnet",
+  "chainId": 61997,
+  "actor": "0xf5C66e5155a62E27047aD4ccE729593D6B9c03Fc",
+  "address": "0x5291a8bB374Ef3819A30d7D09dC5690C0077fc54",
+  "functionName": "assess_section",
+  "args": [
+    "General Population Shelters (Pet Friendly): shelters are now open, including Barnett Park.",
+    "OrangeCounty",
+    "2023-08-29T14:00-04:00",
+    "5a74b7472d4e7cf9241d9d2da6b07acd21f7fc61ef093f98f29502a9b170924d"
+  ],
+  "broadcastCount": 1,
+  "txHash": "0xa13fcefe5410b5a946d99abf4325f529281b51d4a8280d748848bbe5366900f8",
+  "feeValue": "25000000000002588",
+  "result": "MAJORITY_AGREE",
+  "execution": "FINISHED_WITH_RETURN",
+  "lifecycle": {
+    "state": "finalized",
+    "outcome": "accepted"
+  },
+  "readback": {
+    "access_class": "PET_FRIENDLY",
+    "authority": "OrangeCounty",
+    "capacity": "NOT_ASSERTED",
+    "current_availability": "NOT_ASSERTED",
+    "event_id": "idalia",
+    "evidence_state": "VERIFIED",
+    "facility": "Barnett Park",
+    "lifecycle": "ASSESSED",
+    "published_state": "HISTORICALLY_LISTED_OPEN",
+    "section_time": "2023-08-29T14:00-04:00",
+    "superseded_by": ""
+  }
+}
